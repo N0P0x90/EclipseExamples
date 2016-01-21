@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<templates>
+	<template autoinsert="true" context="org.xtext.example.mydsl.MyDsl.Greeting" deleted="false" description="" enabled="true" name="Hello">Hello ${name}!</template>
+</templates>
